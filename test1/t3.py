@@ -13,7 +13,7 @@ else:
 height = 1.75
 weight = 80.5
 bmi = weight / (height * height)
-print('bmi is ',bmi)
+print('bmi is ', bmi)
 if bmi < 18.5:
     print('体重过轻')
 elif bmi < 25:
