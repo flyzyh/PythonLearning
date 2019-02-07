@@ -1,3 +1,7 @@
 .vscode/settings.json
 .vscode
 .vscode/
+.bin/
+.vscode/
+lib64
+pyenv.cfg
